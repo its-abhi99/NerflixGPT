@@ -12,6 +12,8 @@ export const API_OPTIONS = {
   },
 };
 
+export const photoURL="https://avatars.githubusercontent.com/u/105558268?v=4";
+
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
 
 export const NETFLIX_BG =
